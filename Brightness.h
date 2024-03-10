@@ -5,6 +5,7 @@
 #ifndef LG_ULTRAFINE_BRIGHTNESS__BRIGHTNESS_H_
 #define LG_ULTRAFINE_BRIGHTNESS__BRIGHTNESS_H_
 
+#include <cstdint>
 #include <iostream>
 #include <vector>
 class Brightness {
